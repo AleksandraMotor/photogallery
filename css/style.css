@@ -119,7 +119,7 @@ h1 {
     top: 90%;
 }
 
-.gallery .images {
+.images {
     display: flex;
     flex-wrap: wrap;
     align-content: space-around;
